@@ -1,4 +1,4 @@
-# FREE RDP WINDOWS SERVER!
+# STK RDP WINDOWS SERVER!
 
 Create Free RDP 7GB RAM and 2 CPU Core with Github.
 Follow these instructions
