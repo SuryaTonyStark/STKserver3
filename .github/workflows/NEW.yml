@@ -11,7 +11,7 @@ jobs:
     steps:
     - name: Downloading Ngrok.
       run: |
-        Invoke-WebRequest https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip -OutFile ngrok.zip
+        Invoke-WebRequest https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-windows-amd64.zip -OutFile ngrok.zip
         Invoke-WebRequest https://raw.githubusercontent.com/SuryaTonyStark/STKserver3/main/start.bat -OutFile start.bat
         Invoke-WebRequest https://raw.githubusercontent.com/SuryaTonyStark/STKserver3/main/wallpaper.jpg -OutFile wallpaper.jpg
         Invoke-WebRequest https://raw.githubusercontent.com/SuryaTonyStark/STKserver3/main/wallpaper.bat -OutFile wallpaper.bat
